@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Wave_music_player/static/css/main.97b15a91.chunk.css",
+    "main.js": "/Wave_music_player/static/js/main.aa98a08d.chunk.js",
+    "main.js.map": "/Wave_music_player/static/js/main.aa98a08d.chunk.js.map",
+    "runtime-main.js": "/Wave_music_player/static/js/runtime-main.cba18619.js",
+    "runtime-main.js.map": "/Wave_music_player/static/js/runtime-main.cba18619.js.map",
+    "static/js/2.d2336e61.chunk.js": "/Wave_music_player/static/js/2.d2336e61.chunk.js",
+    "static/js/2.d2336e61.chunk.js.map": "/Wave_music_player/static/js/2.d2336e61.chunk.js.map",
+    "index.html": "/Wave_music_player/index.html",
+    "static/css/main.97b15a91.chunk.css.map": "/Wave_music_player/static/css/main.97b15a91.chunk.css.map",
+    "static/js/2.d2336e61.chunk.js.LICENSE.txt": "/Wave_music_player/static/js/2.d2336e61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cba18619.js",
+    "static/js/2.d2336e61.chunk.js",
+    "static/css/main.97b15a91.chunk.css",
+    "static/js/main.aa98a08d.chunk.js"
+  ]
+}
